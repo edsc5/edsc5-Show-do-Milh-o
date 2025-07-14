@@ -1,0 +1,14 @@
+{
+  "name": "edsc5-show-do-milh-o",
+  "version": "1.0.0",
+  "description": "Show do Milhao em Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Erick Douglas Silva Campos",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
